@@ -1,0 +1,3 @@
+[submodule "SnapSudoku"]
+	path = SnapSudoku
+	url = https://github.com/prajwalkr/SnapSudoku.git
